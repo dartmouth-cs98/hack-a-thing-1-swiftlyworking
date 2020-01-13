@@ -10,12 +10,14 @@ import Foundation
 
 extension String
 {
+    // Generate a random number
     static func randomNumber(length: Int) -> String
     {
         var result = ""
 
         for _ in 0..<length {
             let digit = Int.random(in: 0...9)
+            // concatenate this number
             result += "\(digit)"
         }
 
@@ -24,6 +26,7 @@ extension String
     
     func integer(at n: Int) -> Int
     {
+        // get an array of characters
         let index = self.index(self.startIndex, offsetBy: n)
 
         return self[index].wholeNumberValue ?? 0
