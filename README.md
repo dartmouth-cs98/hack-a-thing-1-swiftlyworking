@@ -14,6 +14,8 @@ This was also my first time using Swift and my first time really using xCode, so
 
 ### What Didn't Work
 
+Can't get launch screen to run. Did fix negative score issue.
+
 I had a lot of trouble setting the background image, because the constraints default to standard instead of Canvas and also the order listed in the Interface Builder Navigation really matter. However, there is a good amount of assistance available on the web.
 
 The main thing I struggled with was getting xCode in the first place. I used to have it, but I foolishly deleted it and it required more disk space on my computer to install than I had. I actually wasted a lot of my hacking time looking through system caches to find out what I can delete and spent a lot of time learning about disk cleaner programs.
