@@ -18,6 +18,7 @@
 		B564485223CCC28400C86C2D /* HVD_Comic_Serif_Pro.otf in Resources */ = {isa = PBXBuildFile; fileRef = B564485123CCB7F100C86C2D /* HVD_Comic_Serif_Pro.otf */; };
 		B564485323CCC28500C86C2D /* HVD_Comic_Serif_Pro.otf in Resources */ = {isa = PBXBuildFile; fileRef = B564485123CCB7F100C86C2D /* HVD_Comic_Serif_Pro.otf */; };
 		B564485423CCC28600C86C2D /* HVD_Comic_Serif_Pro.otf in Resources */ = {isa = PBXBuildFile; fileRef = B564485123CCB7F100C86C2D /* HVD_Comic_Serif_Pro.otf */; };
+		B564485623CCC3E600C86C2D /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = B564485523CCC3E600C86C2D /* String.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		B564484323CCB5F100C86C2D /* Add_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Add_1UITests.swift; sourceTree = "<group>"; };
 		B564484523CCB5F100C86C2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B564485123CCB7F100C86C2D /* HVD_Comic_Serif_Pro.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = HVD_Comic_Serif_Pro.otf; path = "../../HVD-Comic-Serif-Pro/HVD_Comic_Serif_Pro.otf"; sourceTree = "<group>"; };
+		B564485523CCC3E600C86C2D /* String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				B564482C23CCB5F100C86C2D /* LaunchScreen.storyboard */,
 				B564482F23CCB5F100C86C2D /* Info.plist */,
 				B564485123CCB7F100C86C2D /* HVD_Comic_Serif_Pro.otf */,
+				B564485523CCC3E600C86C2D /* String.swift */,
 			);
 			path = "Add 1";
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 			files = (
 				B564482623CCB5F000C86C2D /* GameViewController.swift in Sources */,
 				B564482223CCB5F000C86C2D /* AppDelegate.swift in Sources */,
+				B564485623CCC3E600C86C2D /* String.swift in Sources */,
 				B564482423CCB5F000C86C2D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
